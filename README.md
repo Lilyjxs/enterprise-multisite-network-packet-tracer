@@ -145,8 +145,15 @@ Simulasi infrastruktur jaringan perusahaan multi-lokasi berhasil dirancang mengg
 
 ## 9. File Simulasi Cisco Packet Tracer
 
-File proyek `.pkt` belum disertakan dalam paket ini karena belum diberikan. Letakkan file simulasi Cisco Packet Tracer milikmu di folder `packet-tracer/` agar pengunjung repository dapat mengunduh dan membukanya.
+File simulasi jaringan perusahaan multi-lokasi tersedia dalam format Cisco Packet Tracer (`.pkt`).
 
+**Nama File:** `PORTOFOLIO.pkt`
+
+**Lokasi:** `packet-tracer/PORTOFOLIO.pkt`
+
+[Download File Simulasi Cisco Packet Tracer](packet-tracer/PORTOFOLIO.pkt)
+
+File ini dapat diunduh dan dibuka menggunakan aplikasi Cisco Packet Tracer.
 ## Dokumentasi PDF
 
 Versi portofolio PDF tersedia di [`docs/portfolio.pdf`](docs/portfolio.pdf).
