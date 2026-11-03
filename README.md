@@ -154,7 +154,6 @@ File simulasi jaringan perusahaan multi-lokasi tersedia dalam format Cisco Packe
 [Download File Simulasi Cisco Packet Tracer](packet-tracer/PORTOFOLIO.pkt)
 
 File ini dapat diunduh dan dibuka menggunakan aplikasi Cisco Packet Tracer.
-## Dokumentasi PDF
 
 ## 10. Dokumentasi Pembelajaran
 
@@ -162,4 +161,5 @@ Selain proyek simulasi ini, tersedia dokumentasi pembelajaran yang berisi catata
 
 [ Lihat Dokumentasi Pembelajaran (Google Drive) ](https://drive.google.com/drive/folders/1_LPRuOoWryp3BLU60QpmRIiGRSdaTQsI)
 
+## Dokumentasi PDF
 Versi portofolio PDF tersedia di [`docs/portfolio.pdf`](docs/portfolio.pdf).
